@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7098fb34442562e7efde1d18dcb8a337fd8ee45f">
+        <dex dex="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_921acccace458fcec9cbade5b8ec5f712cac7843/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2ddf1691aa42de7f19e772e4ad2a64ed2a358c75">
+        <dex dex="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_65eb2242fc9f85b3d7dae7840c8c4f1ed847f1fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/libs/Vuforia.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9be6fe42a9843737d973096dd26f8250c3db9022">
+        <dex dex="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_f4faffaba3fae342fd98e7540d6dbcb0c2a22f0f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/libs/VuforiaUnityPlayer.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e9653c966030baaf50129735bc7dade4d9a7b952">
+        <dex dex="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/build/intermediates/transforms/dex/debug/folders/1000/2/VuforiaUnityPlayer_713174310661d984f699d1c9ff4b39448d928af2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/libs/unity-classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1ecebd98da2f1e39f3f79a78d84d72acf036adc4">
+        <dex dex="/Users/alberto/AndroidStudioProjects/BennyTheGhoul/app/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_0cb7ebbe7396164b7b26b7ca94154b6001dd8fd1/classes.dex" />
+    </item>
+
+</items>
